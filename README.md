@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stan Guinn
 - 👀 I’m interested in ...Data Analytics, Data Science,OSINT, and Data Security
-- 🌱 I’m currently learning ...Everything I can about Data and Data Analytics!
-- 💞️ I’m looking to collaborate on ...Data Analytics Projects
+- 🌱 I’m currently learning ...Everything I can about Data Science and Data Analytics!
+- 💞️ I’m looking to collaborate on ...Data Analytics/Science Projects
 - 📫 How to reach me ...intrepid2008@gmx.com
 
 <!---
