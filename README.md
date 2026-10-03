@@ -2,7 +2,7 @@
 
 Welcome to my GitHub.
 
-I am a data analytics professional with interests in **Data Science**, **OSINT Research**, **Operations and Decision Science**, **Data Projects**, and **Data Security**. I earned my **Master of Science in Data Analytics** from **Eastern University, Pennsylvania**, in 2025.
+I am a data analytics professional and US Navy veteran with interests in **Data Science**, **OSINT Research**, **Operations and Decision Science**, **Data Projects**, and **Data Security**. I earned my **Master of Science in Data Analytics** from **Eastern University, Pennsylvania**, in 2025.
 
 ## Professional Interests
 
